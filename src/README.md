@@ -4,7 +4,7 @@
 
 |番号|内容(説明のページに飛びます)|演習問題のページに飛びます|
 |:---|:---:|:--:|
-|1.| [速さと速度](./velo/velocity.md)|[演習問題](./velo/p-velocity.md)|
+|1.| [速さと速度](velocity.md)|[演習問題](p-velocity.md)|
 |2.| [等速直線運動](ulm.md)| [演習問題](p-ulm.md)|
 |3.| [速度の合成](synthesis.md)| [演習問題](p-synthesis.md)|
 |4.| [相対速度](rerativev.md)| [演習問題](p-rerativev.md)|
