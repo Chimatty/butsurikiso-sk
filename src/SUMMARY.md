@@ -1,13 +1,10 @@
-# もくじ
-*[Home](README.md)
+# Table of contents
 
-## 第１章 物体の運動  
+* [Home](README.md)  
 
-*[速さと速度](velocity.md)  
-*[等速直線運動](ulm.md)  
+## 内容編
+* [速さと速度](velo/velocity.md)
 
 
-##演習問題
-
-*[速さと速度](p-velocity.md)  
-*[等速直線運動運動]/(p-ulm.md)  
+## 演習問題編
+* [速さと速度](velo/p-velocity.md)
