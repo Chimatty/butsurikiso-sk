@@ -5,7 +5,7 @@
 ### 問1
 時速300km/hの新幹線は、3時間でどれだけ進めるか答えなさい。
 
-<details><summary>答え</summary><div>
+<details><summary>答え</summary><div>  
 
 物体が進む距離が知りたい時には、速さと時間の掛け算で求めるんだった。  
 したがって、求める距離x[m]は
